@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Orders]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Orders].[Price] is being dropped, data loss could occur.
+       The column [dbo].[Orders].[Status] is being dropped, data loss could occur.
+       The column [dbo].[Orders].[StoreId] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       [dbo].[StoreForeignKey] (Foreign Key)
+       [dbo].[OrderForeignKey] (Foreign Key)
+     Table rebuild
+       [dbo].[Orders] (Table)
+     Create
+       [dbo].[Customers] (Table)
+       [dbo].[CustomerForeignKey] (Foreign Key)
+
+** Supporting actions
+
+The column [dbo].[Orders].[Price] is being dropped, data loss could occur.
+The column [dbo].[Orders].[Status] is being dropped, data loss could occur.
+The column [dbo].[Orders].[StoreId] is being dropped, data loss could occur.
+

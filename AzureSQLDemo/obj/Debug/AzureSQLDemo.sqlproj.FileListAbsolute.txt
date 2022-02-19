@@ -1,0 +1,9 @@
+C:\Workspace\Starbucks Training\AzureSQLDemo\AzureSQLDemo\AzureSQLDemo\bin\Debug\AzureSQLDemo.dacpac
+C:\Workspace\Starbucks Training\AzureSQLDemo\AzureSQLDemo\AzureSQLDemo\bin\Debug\AzureSQLDemo.dll
+C:\Workspace\Starbucks Training\AzureSQLDemo\AzureSQLDemo\AzureSQLDemo\bin\Debug\AzureSQLDemo.pdb
+C:\Workspace\Starbucks Training\AzureSQLDemo\AzureSQLDemo\AzureSQLDemo\obj\Debug\Model.xml
+C:\Workspace\Starbucks Training\AzureSQLDemo\AzureSQLDemo\AzureSQLDemo\obj\Debug\refactor.xml
+C:\Workspace\Starbucks Training\AzureSQLDemo\AzureSQLDemo\AzureSQLDemo\obj\Debug\postdeploy.sql
+C:\Workspace\Starbucks Training\AzureSQLDemo\AzureSQLDemo\AzureSQLDemo\obj\Debug\predeploy.sql
+C:\Workspace\Starbucks Training\AzureSQLDemo\AzureSQLDemo\AzureSQLDemo\obj\Debug\AzureSQLDemo.dll
+C:\Workspace\Starbucks Training\AzureSQLDemo\AzureSQLDemo\AzureSQLDemo\obj\Debug\AzureSQLDemo.pdb
